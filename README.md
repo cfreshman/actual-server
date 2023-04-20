@@ -17,7 +17,7 @@ yarn install
 yarn start
 ```
 
-Go to https://localhost:5006 in your browser and you'll see Actual.
+Go to http://localhost:5006 in your browser and you'll see Actual.
 
 ## Running via Docker
 
